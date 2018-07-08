@@ -1,0 +1,20 @@
+{
+  "name": "segun",
+  "version": "1.0.0",
+  "description": "",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "pelumi omotesho",
+  "license": "ISC",
+  "dependencies": {
+    "browser-sync": "^2.24.4",
+    "gulp": "^3.9.1",
+    "gulp-plumber": "^1.2.0",
+    "gulp-sass": "^4.0.1"
+  },
+  "devDependencies": {
+    "gulp-autoprefixer": "^5.0.0"
+  }
+}
